@@ -20,6 +20,10 @@
     }
     
 }
+.resume{
+  display: block;
+  margin-top: 10px;
+}
 .header-content{
     padding: 10px;
     margin: 10px 50px;
@@ -452,4 +456,10 @@
  .gallery-content{
   width: 100%;
   max-width: 1200px;
+ }
+
+ .project-button{
+  display: flex;
+  margin-top: 100px;
+  margin-left: 30px;
  }
